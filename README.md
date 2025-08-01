@@ -1,4 +1,4 @@
-# TrustChain_Walmart
+# TrustChain
 📌 Problem
 In today’s large-scale retail environments, threats happen every second — from credential stuffing and bot scalping, to API abuse and supply chain tampering.
 While detection exists, real-time response and verifiable trust are lacking.
